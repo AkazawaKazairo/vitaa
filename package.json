@@ -1,0 +1,25 @@
+{
+  "name": "vita-md",
+  "version": "1.0.0",
+  "description": "vitaa-bot wa md",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "vitaa Author",
+  "license": "MIT",
+  "dependencies": {
+    "awesome-phonenumber": "^2.64.0",
+    "baileys": "npm:baileys-mod@latest",
+    "chalk": "^4.1.1",
+    "file-type": "^16.5.3",
+    "fluent-ffmpeg": "^2.1.2",
+    "jimp": "^0.16.13",
+    "moment-timezone": "^0.5.46",
+    "node-fetch": "^2.6.9",
+    "node-webpmux": "^3.1.0",
+    "nouku-search": "^1.0.0",
+    "pino": "^8.3.0",
+    "very-nay": "latest"
+  }
+}
